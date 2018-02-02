@@ -6,7 +6,9 @@ https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
 
 regression analysis for classifying comments into classes based on toxicity
 
-800 out of 1322 on the leaderboard in the kaggle competition
+
+Mean AUC: 0.990327 for about 800 out of 1322 on the leaderboard in the kaggle competition
+
 """
 
 #standard imports
